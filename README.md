@@ -53,6 +53,9 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OjasBarawal&show_icons=true&count_private=true&theme=react&line_height=40" />
     </a>
+    <a href="">
+      <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OjasBarawal&layout=compact&hide=shell&theme=react"/>
+    </a>
 </div
 
 <br/>
